@@ -1,4 +1,5 @@
-# 0x03 Shell, init files, variables and expansions
+![image](https://github.com/BraKoose/alx-system_engineering-devops/assets/72326008/abd53780-d4ea-4ff5-bf18-7bd960512c77)![image](https://github.com/BraKoose/alx-system_engineering-devops/assets/72326008/b6b58da2-35c5-42a5-9936-6d260828eb21)# 0x03 Shell, init files, variables and expansions
+![img](https://github.com/BraKoose/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/Screenshot%20from%202023-07-15%2006-06-41.png)
 
 ## Resources
 
