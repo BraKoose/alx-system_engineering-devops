@@ -63,3 +63,6 @@
     - Run the command this way: `./103-the_biggest_fan < nasa_19950801.tsv`.
     - Order by number of requests, most active host, or IP at the top.
     - You are not allowed to use `grep`, `egrep`, `fgrep` or `rgrep`.
+
+#Scores 
+![img](https://github.com/BraKoose/alx-system_engineering-devops/blob/master/0x02-shell_redirections/Screenshot%20from%202023-07-15%2006-15-47.png)
